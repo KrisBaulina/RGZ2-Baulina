@@ -1,7 +1,7 @@
 ﻿<html>
 	<head>
 		<title>Расчет высоты треугольника</title>
-		<link rel="stylesheet" href="style.css"/>
+		
 	</head>
 	<body>
 		<?php		    

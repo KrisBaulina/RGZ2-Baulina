@@ -19,7 +19,7 @@
 		?>
 		<img src="area_triangle.png" alt="Обозначение входных величин">		
 		<p>Рассчет высоты <b>h</b> к стороне <b>а</b>: </p>
-		<form action="index.php" method="GET">
+		<form action="Index.php" method="GET">
 			Сторона a:
 			<input type="text" name="value1"
 				value="<?= htmlspecialchars($value1)?>">
